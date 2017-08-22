@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "Tengo hambre, alimenta a tu creador" << endl;
     return 0;
 }
