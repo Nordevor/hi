@@ -15,7 +15,7 @@ int main(){
     cout << "Ingresar año: ";
     cin>>n;
     if (bisiesto(n))
-        cout<<"año bisiesto";
+        cout<<"Año bisiesto";
     else
         cout<<"No lo es";
 }
