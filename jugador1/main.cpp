@@ -1,5 +1,6 @@
 #include <iostream>
 #include "jugador.h"
+#include "team.h"
 using namespace std;
 
 int main()
@@ -14,9 +15,12 @@ int main()
     p.setPosition("Delantero Derecho");
     p.setAggressivity(4);
 
+    team a(0,11,"local");
 
     g.print();
     cout<<"\n"<<endl;
     p.print();
+    cout<<"\n"<<endl;
+    a.print();
     return 0;
 }
