@@ -1,9 +1,11 @@
 #include <iostream>
-
+#include "fecha.h"
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    fecha n(15,"agosto",1999);
+    n.print();
+
+
 }

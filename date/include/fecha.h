@@ -1,6 +1,7 @@
 #ifndef FECHA_H
 #define FECHA_H
-
+#include <iostream>
+using namespace std;
 
 class fecha
 {

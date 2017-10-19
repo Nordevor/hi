@@ -21,8 +21,6 @@ void fecha::setMonth(string m){
 }
 void fecha::setYear(int y){
     year=y;
-
-bool fecha::setBisiesto()
 }
 void fecha::print(){
     cout<<day<<endl;
