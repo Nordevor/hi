@@ -14,6 +14,8 @@ class complejo
         complejo(int x, int y);
 
         complejo suma(complejo x);
+        bool igualdad(complejo x);
+        void multiplicacion(int o);
         void print();
 };
 
