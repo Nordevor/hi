@@ -25,3 +25,17 @@ print ("el tiempo de espera es:", end_time)
 j=int(input())
 k=int(input())
 print(j+k)
+
+n=int(input())
+
+def f(x):
+	x=g(x)+h(x)*2
+	return x
+def g(x):
+	x=h(x)+10
+	return x
+def h(x):
+	x=x*5
+	return x
+suma=f(n)
+print(suma)
