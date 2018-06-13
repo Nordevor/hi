@@ -21,3 +21,7 @@ print (seleccion(lista))
 seleccion(a)
 end_time = time.time() - start_time
 print ("el tiempo de espera es:", end_time)
+
+j=int(input())
+k=int(input())
+print(j+k)
