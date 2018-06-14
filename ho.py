@@ -22,9 +22,16 @@ seleccion(a)
 end_time = time.time() - start_time
 print ("el tiempo de espera es:", end_time)
 
-j=int(input())
-k=int(input())
-print(j+k)
+j=int(input('¿Cuántos números quieres multiplicar?: '))
+k=0
+l=[]
+
+while k<j:
+    l.append(input('Ingrese un número: '))
+    k=k+1
+
+print(eval('*'.join(l)))
+
 
 n=int(input())
 
