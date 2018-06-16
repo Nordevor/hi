@@ -46,3 +46,16 @@ def h(x):
 	return x
 suma=f(n)
 print(suma)
+
+
+import math
+
+vx=float(input("Vector 1: "))
+vy=float(input("Vector 2: "))
+angle=float(input("Angulo: "))
+
+ang=0.01744533*angle
+RES=(pow((pow(vx,2)+pow(vy,2)+(2*math.cos(ang)*vy*vx)),0.5))
+resultante= round(RES,2)
+
+print("El modulo de la resultante es", resultante)
