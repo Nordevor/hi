@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/caracol.dir/main.cpp.o  -o caracol 

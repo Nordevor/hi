@@ -1,0 +1,3 @@
+/home/damin/AlexisElefteriu/Alexis 2.0/objetos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/damin/AlexisElefteriu/Alexis 2.0/objetos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/damin/AlexisElefteriu/Alexis 2.0/objetos/cmake-build-debug/CMakeFiles/objetos.dir

@@ -1,0 +1,3 @@
+/home/damin/AlexisElefteriu/caracol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/damin/AlexisElefteriu/caracol/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/damin/AlexisElefteriu/caracol/cmake-build-debug/CMakeFiles/caracol.dir

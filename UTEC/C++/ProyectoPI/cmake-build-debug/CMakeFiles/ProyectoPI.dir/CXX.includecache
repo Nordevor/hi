@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/ProyectoPI/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+string
+-
+iomanip
+-
+stdlib.h
+-
+time.h
+-
+

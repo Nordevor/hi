@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/punterosaleatorios3.dir/main.cpp.o  -o punterosaleatorios3 

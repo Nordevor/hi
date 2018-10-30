@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/objetos.dir/main.cpp.o CMakeFiles/objetos.dir/CRectangulo.cpp.o  -o objetos 

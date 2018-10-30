@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/matriz1.dir/main.cpp.o  -o matriz1 

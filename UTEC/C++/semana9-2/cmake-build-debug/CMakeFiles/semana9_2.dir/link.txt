@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/semana9_2.dir/main.cpp.o CMakeFiles/semana9_2.dir/part2.cpp.o  -o semana9_2 

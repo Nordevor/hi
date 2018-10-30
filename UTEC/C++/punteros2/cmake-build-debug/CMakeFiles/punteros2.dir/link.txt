@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/punteros2.dir/main.cpp.o  -o punteros2 

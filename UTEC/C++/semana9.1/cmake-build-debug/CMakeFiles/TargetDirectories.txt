@@ -1,0 +1,3 @@
+/home/damin/AlexisElefteriu/semana9.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/damin/AlexisElefteriu/semana9.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/damin/AlexisElefteriu/semana9.1/cmake-build-debug/CMakeFiles/semana9_1.dir

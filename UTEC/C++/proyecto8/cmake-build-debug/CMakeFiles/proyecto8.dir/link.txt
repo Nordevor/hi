@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/proyecto8.dir/main.cpp.o  -o proyecto8 

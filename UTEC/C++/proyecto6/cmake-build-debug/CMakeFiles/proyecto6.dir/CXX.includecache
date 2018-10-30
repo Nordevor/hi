@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/proyecto6/lista.h
+
+/home/damin/AlexisElefteriu/proyecto6/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+lista.h
+/home/damin/AlexisElefteriu/proyecto6/lista.h
+

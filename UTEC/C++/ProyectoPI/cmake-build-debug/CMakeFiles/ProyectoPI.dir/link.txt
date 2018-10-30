@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ProyectoPI.dir/main.cpp.o  -o ProyectoPI 
