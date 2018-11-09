@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ALEXIS/Desktop/Progamas/codigo con amigos/ariana/pch.cpp
+pch.h
+C:/Users/ALEXIS/Desktop/Progamas/codigo con amigos/ariana/pch.h
+iostream
+-
+
+C:/Users/ALEXIS/Desktop/Progamas/codigo con amigos/ariana/pch.h
+

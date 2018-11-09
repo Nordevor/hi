@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa1.2-2/11/CAlumno.cpp
+CAlumno.h
+/home/damin/AlexisElefteriu/Alexis 2.0/programa1.2-2/11/CAlumno.h
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa1.2-2/11/CAlumno.h
+string
+-
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa1.2-2/11/main.cpp
+iostream
+-
+CAlumno.h
+/home/damin/AlexisElefteriu/Alexis 2.0/programa1.2-2/11/CAlumno.h
+

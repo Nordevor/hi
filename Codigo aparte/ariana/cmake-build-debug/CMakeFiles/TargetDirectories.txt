@@ -1,0 +1,3 @@
+C:/Users/ALEXIS/Desktop/Progamas/codigo con amigos/ariana/cmake-build-debug/CMakeFiles/ariana.dir
+C:/Users/ALEXIS/Desktop/Progamas/codigo con amigos/ariana/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALEXIS/Desktop/Progamas/codigo con amigos/ariana/cmake-build-debug/CMakeFiles/rebuild_cache.dir

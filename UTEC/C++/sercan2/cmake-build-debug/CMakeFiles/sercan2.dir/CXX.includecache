@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/agenda.cpp
+agenda.h
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/agenda.h
+persona.h
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/persona.h
+
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/agenda.h
+persona.h
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/persona.h
+
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/main.cpp
+iostream
+-
+string
+-
+persona.h
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/persona.h
+agenda.h
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/agenda.h
+
+/home/damin/AlexisElefteriu/Alexis 2.0/sercan2/persona.h
+iostream
+-
+string
+-
+

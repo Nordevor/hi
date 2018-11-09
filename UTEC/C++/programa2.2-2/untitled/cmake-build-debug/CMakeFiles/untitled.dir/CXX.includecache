@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/untitled/main.cpp
+iostream
+-
+punto.h
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/untitled/punto.h
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/untitled/punto.cpp
+iostream
+-
+cmath
+-
+punto.h
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/untitled/punto.h
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/untitled/punto.h
+iostream
+-
+cmath
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/11/CAlumno.h
+string
+-
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/11/CSeccion.cpp
+iostream
+-
+iomanip
+-
+CSeccion.h
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/11/CSeccion.h
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/11/CSeccion.h
+CAlumno.h
+/home/damin/AlexisElefteriu/Alexis 2.0/programa2.2-2/11/CAlumno.h
+

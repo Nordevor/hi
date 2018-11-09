@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/programa3_1_5_11_18_.dir/main.cpp.o CMakeFiles/programa3_1_5_11_18_.dir/Producto.cpp.o  -o programa3_1_5_11_18_ 

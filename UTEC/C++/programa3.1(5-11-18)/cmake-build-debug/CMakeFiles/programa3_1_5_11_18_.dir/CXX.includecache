@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa3.1(5-11-18)/Producto.h
+string
+-
+
+/home/damin/AlexisElefteriu/Alexis 2.0/programa3.1(5-11-18)/main.cpp
+iostream
+-
+Producto.h
+/home/damin/AlexisElefteriu/Alexis 2.0/programa3.1(5-11-18)/Producto.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damin/AlexisElefteriu/untitled/main.cpp
+iostream
+-
+cstdlib
+-
+
+/home/damin/AlexisElefteriu/untitled/mate0.cpp
+mate0.h
+/home/damin/AlexisElefteriu/untitled/mate0.h
+
+/home/damin/AlexisElefteriu/untitled/mate0.h
+
